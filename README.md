@@ -10,11 +10,8 @@
 [![ftilie.web.app](https://img.shields.io/badge/ftilie.web.app-9146FF)](https://ftilie.web.app/about) 
 
 ## 🏆Achievements:
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA"> 
-  <span>Contributed to the release of EA's latest games</span>
-</div>
-<br>
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+- Contributed to the release of EA's latest games
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
