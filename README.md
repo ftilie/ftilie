@@ -7,7 +7,7 @@
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florin-tilie/) 
-[![Dev Portfolio](https://img.shields.io/badge/Dev_Portfolio-9146FF)](https://ftilie.web.app/about) 
+[![Dev Portfolio](https://img.shields.io/badge/Dev_Portfolio-9146FF)](https://ftilie-portfolio.vercel.app/about) 
 
 ## 🏆Achievements:
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
